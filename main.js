@@ -14,7 +14,7 @@ For (let contador = 0; (contador < listadeTeclas.length; contador ++){
     }
     
 
-    contador = contador + 1;
+   
     
 }
 
